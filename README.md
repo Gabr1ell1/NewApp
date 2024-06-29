@@ -5,7 +5,8 @@ Interfaces gráficas desenvolvidas com relação ao componente curricular de Pro
 
  💡 Tela Inicial:
  
- ![TelaInicial](https://github.com/Gabr1ell1/NewApp/assets/133404217/18784e89-ff8f-42fc-8867-8ce047a6cecc)
+ ![TelaInicial](https://github.com/Gabr1ell1/NewApp/assets/133404217/9bdf4d2e-52ea-4ad9-a974-c269c962dfdb)
+ 
 
  💡 Tela Produto:
  
